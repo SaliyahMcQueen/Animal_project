@@ -1,0 +1,19 @@
+
+body{
+	background-color:aqua;
+}
+h1{
+	color:blue;
+	text-align: center;
+}
+h2{
+	color:blue;
+	text-align: center;
+}
+li{
+	color:#ff6666;
+}
+div{
+	width: 50px
+	height:50px;
+}
